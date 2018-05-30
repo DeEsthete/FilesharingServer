@@ -1,0 +1,10 @@
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.exe.config
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.exe
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.pdb
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\bin\Debug\Newtonsoft.Json.xml
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csproj.CopyComplete
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.exe
+c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.pdb
