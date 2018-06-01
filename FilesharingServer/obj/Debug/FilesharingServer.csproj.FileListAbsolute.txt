@@ -8,3 +8,12 @@ c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Deb
 c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csproj.CopyComplete
 c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.exe
 c:\users\павлове\source\repos\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.pdb
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.exe.config
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.exe
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\bin\Debug\FilesharingServer.pdb
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csprojResolveAssemblyReference.cache
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.csproj.CoreCompileInputs.cache
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.exe
+C:\Users\djoni\Desktop\PROJECTS\FilesharingServer\FilesharingServer\obj\Debug\FilesharingServer.pdb

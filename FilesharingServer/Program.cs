@@ -19,8 +19,8 @@ namespace FilesharingServer
             TcpListener server = new TcpListener(IPAddress.Parse(SERVER_IP), SERVER_PORT);
             try
             {
-                server.Start();
                 clientConnect.StartWork(server);
+                Console.ReadLine();
             }
             catch (SocketException ex)
             {
