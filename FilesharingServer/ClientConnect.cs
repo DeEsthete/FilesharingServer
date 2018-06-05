@@ -29,7 +29,7 @@ namespace FilesharingServer
                     server.Start();
                 }
             }
-            catch (Exception ex)
+            catch (SocketException ex)
             {
                 Console.WriteLine(ex.Message);
             }
